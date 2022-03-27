@@ -6,16 +6,16 @@ Kobe Bryant.ipynb
 * Jupyter Notebook that cleans up data, visualizes career arcs and shot maps
 
 kobe_data.csv
-* Contains detailed shot profiles for every field goal attempted from Kobe Bryant's career (only regular season)
+* Detailed shot profiles for every field goal attempted from Kobe Bryant's career (only regular season)
 
 kobe.csv
-* Contains traditional box score statistics from LeBron James's career (up to the 2018-19 season)
+* Traditional box score statistics from LeBron James's career (up to the 2018-19 season)
 
 lebron.csv
-* Contains traditional box score statistics from LeBron James's career (up to the 2018-19 season)
+* Traditional box score statistics from LeBron James's career (up to the 2018-19 season)
 
 mj.csv
-* Contains traditional box score statistics from Michael Jordan's career
+* Traditional box score statistics from Michael Jordan's career
 
 wade.csv
-* Contains traditional box score statistics from Dwyane Wade's career
+* Traditional box score statistics from Dwyane Wade's career
