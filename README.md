@@ -9,13 +9,13 @@ kobe_data.csv
 * Detailed shot profiles for every field goal attempted from Kobe Bryant's career (only regular season)
 
 kobe.csv
-* Traditional box score statistics from LeBron James's career (up to the 2018-19 season)
+* Traditional box score per-game statistics from LeBron James's career (up to the 2018-19 season)
 
 lebron.csv
-* Traditional box score statistics from LeBron James's career (up to the 2018-19 season)
+* Traditional box score per-game statistics from LeBron James's career (up to the 2018-19 season)
 
 mj.csv
-* Traditional box score statistics from Michael Jordan's career
+* Traditional box score per-game statistics from Michael Jordan's career
 
 wade.csv
-* Traditional box score statistics from Dwyane Wade's career
+* Traditional box score per-game statistics from Dwyane Wade's career
