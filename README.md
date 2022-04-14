@@ -19,3 +19,5 @@ mj.csv
 
 wade.csv
 * Traditional box score per-game statistics from Dwyane Wade's career
+
+*Packages/Libraries Used : numpy, pandas, sklearn, matplotlib*
