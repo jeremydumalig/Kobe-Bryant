@@ -2,6 +2,8 @@
 
 *This project was completed as a part of the Programming and Data Analytics elective at the Nueva School (2017). Kobe Bryant's career is analyzed as a whole and is compared to that of LeBron James, Michael Jordan, and Dwyane Wade. The full project can be found [here](https://jeremydumalig.com/kobe-bryant/).*
 
+*Packages/Libraries Used : numpy, pandas, sklearn, matplotlib*
+
 Kobe Bryant.ipynb
 * Jupyter Notebook that cleans up data, visualizes career arcs and shot maps
 
@@ -19,5 +21,3 @@ mj.csv
 
 wade.csv
 * Traditional box score per-game statistics from Dwyane Wade's career
-
-*Packages/Libraries Used : numpy, pandas, sklearn, matplotlib*
