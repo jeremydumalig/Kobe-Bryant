@@ -6,7 +6,7 @@
 
 <br>
 
-Kobe Bryant.ipynb
+**Kobe Bryant.ipynb**
 * Jupyter Notebook that cleans up data, visualizes career arcs and shot maps
 
 kobe_data.csv
